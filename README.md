@@ -23,6 +23,8 @@ This project uses various machine learning algorithms to predict whether a patie
 ## Project Description
 
 The aim of this project is to predict diabetes in patients based on medical and demographic data. This data was originally collected by the **National Institute of Diabetes and Digestive and Kidney Diseases**. The dataset contains 768 observations and 8 features such as age, BMI, glucose levels, and others.
+In this project we build a Logistic Regression and Decision Tree model using Python and scikit-learn to solve a binary classification problem: predicting whether a person has diabetes or not based on medical data.
+Working on the Pima Indians Diabetes Dataset, which contains several health-related attributes. The Goal is to apply the full machine learning pipeline, analyze the results, and understand how different factors like feature scaling, data splitting, and regularization impact model performance.
 
 We evaluate the performance of several machine learning models:
 - Logistic Regression
